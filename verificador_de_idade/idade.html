@@ -14,13 +14,19 @@
     <section class="square">
         
         <div>
-            Testando....
+            <p>Ano de Nascimento:
+                <input type="number" name="txtano" id="txtano" min="0">
+            </p>
+            <p>Sexo:
+                <input type="radio" name="radsex" id="masc" checked>
+                <label for="masc">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminino</label>
+            </p>
+            <p><input type="button" value="Verificar" onclick="verificar()"></p>
         </div>
-        
-        <div>
-            Olá!
-        </div>
-
+        <div id="res"></div>
+        <p>Preencha os dados acima para ver o resultado!</p>
         <div>
             <p>Clique <a href="../index.html" target="_self" rel="prev">aqui</a> para retornar.</p>
         </div>
