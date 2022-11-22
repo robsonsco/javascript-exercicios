@@ -5,5 +5,8 @@ Aqui está alguns exercícios de JavaScript!
 Segue a listagem:
 
 # **Curso em Vídeo**
-- Hora do Dia
+Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara.
+Link: https://www.cursoemvideo.com/
+
+##Hora do Dia
  
