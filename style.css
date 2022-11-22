@@ -18,6 +18,10 @@ section {
     margin: auto;
 }
 
+div {
+    padding: 10px;
+}
+
 footer {
     padding-top: 30px;
     text-align: center;
