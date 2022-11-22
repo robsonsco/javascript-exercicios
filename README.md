@@ -1,4 +1,9 @@
 # javascript-exercicios
 
-Aqui está todos os exercícios de JavaScript realizado no Curso em Vídeo do professor Gustavo Guanabara.
+Aqui está alguns exercícios de JavaScript!
+
+Segue a listagem:
+
+# **Curso em Vídeo**
+- Hora do Dia
  
