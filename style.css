@@ -24,3 +24,11 @@ footer {
     font-style: italic;
 }
 
+.number {
+    width: 70px;
+}
+
+.boxtabuada {
+    width: 200px;
+    height: 200px;
+}
