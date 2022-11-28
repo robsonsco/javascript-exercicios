@@ -1,3 +1,10 @@
+document.addEventListener("keypress", function(e) {
+    
+    if(e.key == "Enter"){
+        gerarTabuada();
+    }
+})
+
 function gerarTabuada() {
     let tab = document.getElementById('seltab')
     let inputnum = document.getElementById('txtnumber').value
