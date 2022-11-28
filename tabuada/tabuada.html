@@ -15,11 +15,17 @@
     <section class="square">
             
         <div>
-            <p>Digite um número: <input type="number" class= "number" name="number" id="number"> <button>Gerar Tabuada</button></p>
+            <p>Digite um número: 
+                <input type="number" class="number" name="txtnumber" id="txtnumber">     
+            </p>
+            <p>
+                <input type="button" value="Gerar Tabuada" onclick="gerarTabuada()">
+            </p>
         </div>
 
         <div>
-            <input type="text" name="resultado" id="inputres" class="boxtabuada" placeholder="Digite um número acima">
+            <select name="tabuada" class="tabuada" id="seltab" size="10">
+            </select>
         </div>
 
         <div>
